@@ -1,0 +1,161 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Poppins, 'Noto Sans KR', sans-serif;
+  margin: 0;
+  font-size: 16px;
+}
+
+.top_main {
+  background-image: url('bg.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.top_title {
+  font-size: 20px;
+  font-weight: 400;
+  color: #ffffff;
+  padding-top: 12px;
+  padding-left: 40px;
+}
+
+.top_title span {
+  font-weight: 700;
+}
+
+.top_text {
+  width: 720px;
+  text-align: center;
+  margin: 0 auto
+}
+
+.top_text_top {
+  font-size: 20px;
+  font-weight: 500;
+  color: #8287a4;
+  margin-top: 80px;
+}
+
+.top_text_center {
+  font-size: 56px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-top: 12px;
+}
+
+.top_text_bottom {
+  font-size: 14px;
+  font-weight: 400;
+  color: #8287a4;
+  margin-top: 14px;
+  padding-bottom: 280px;
+}
+
+.content_bg{
+  width: 100%;
+  padding-bottom: 64px;
+}
+
+.content_bg_2{
+  width: 100%;
+  background-color: #f1f4fa;
+  padding-bottom: 64px;
+}
+
+.content {
+  padding-top: 74px;
+  width: 720px;
+  margin: 0 auto;
+}
+
+.content_title {
+  font-size: 36px;
+  font-weight: 700;
+  color: #161346;
+}
+
+.content img {
+  width: 100%;
+  border-radius: 24px;
+  margin-top: 42px;
+}
+
+.content p {
+  font-size: 16px;
+  font-weight: 500;
+  color: #4c497b;
+  margin-top : 32px;
+}
+
+.content a {
+  width: 200px;
+  display: block;
+  font-size : 16px;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #413c91;
+  text-decoration: none;
+  border-radius: 8px;
+  padding: 16px 32px;
+  margin-top: 32px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.bottom_top {
+  background-color: #161346;
+  width: 100%;
+  padding: 40px;
+}
+
+.bottom_top_top {
+  font-size: 32px;
+  font-weight: 500;
+  color: #ffffff;
+  text-align: center;
+}
+
+.bottom_top_center {
+  font-size: 16px;
+  font-weight: 400;
+  color: #8287a4;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.bottom_top a {
+  width: 200px;
+  display: block;
+  font-size : 16px;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #413c91;
+  text-decoration: none;
+  border-radius: 9999px;
+  padding: 16px 32px;
+  margin-top: 32px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.bottom {
+  width: 100%;
+  background-color: #120f3f;
+  padding: 32px 0;
+}
+
+.bottom div {
+  font-weight: 400;
+  font-size: 16px;
+  color: #d9d9d9;
+  width: 720px;
+  text-align: left;
+  margin: 0 auto;
+}
